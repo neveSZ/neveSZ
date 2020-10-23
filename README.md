@@ -40,8 +40,12 @@
 ## Education
 
 - 📖 **TreinaDev - Training Immersion**\
-📆 2020 - Moment\
+📆 Jul/2020 - Oct/2020\
 📍 **Campus Code**
+
+- 📖 **Data Science Bootcamp**\
+📆 Jul/2020 - Moment\
+📍 **Awari**
 
 - 📖 **Analysis and Systems Development**\
 📆 2018 - 2022\
