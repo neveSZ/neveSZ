@@ -10,6 +10,9 @@
   <a href="https://api.whatsapp.com/send/?phone=5511930869251">
     <img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" />    
   </a>&nbsp;&nbsp;
+    <a href="https://telegram.me/neveSZme">
+    <img src="https://img.shields.io/badge/telegram-D14836?color=2CA5E0&style=for-the-badge&logo=telegram&logoColor=white" />    
+  </a>&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/victor-neves-silva/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
