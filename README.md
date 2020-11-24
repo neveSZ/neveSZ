@@ -61,7 +61,7 @@
 ## Experience
 
 - 📈 **Investment Products Intern**\
-📆 Dez/2020 - Moment\
+📆 Dec/2020 - Moment\
 📍 **Itaú Unibanco**
 
 - 📈 **Partnerships Development Representative**\
