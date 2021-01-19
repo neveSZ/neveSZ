@@ -42,6 +42,10 @@
 
 ## Education
 
+- 📖 **Product Management**\
+📆 Nov/2020 - Moment\
+📍 **PM3**
+
 - 📖 **TreinaDev - Training Immersion**\
 📆 Jul/2020 - Oct/2020\
 📍 **Campus Code**
@@ -60,7 +64,7 @@
 
 ## Experience
 
-- 📈 **Investment Products Intern**\
+- 📈 **Product Designer Intern - Investments**\
 📆 Dec/2020 - Moment\
 📍 **Itaú Unibanco**
 
