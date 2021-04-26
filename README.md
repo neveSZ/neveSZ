@@ -45,7 +45,7 @@
 
 ## Experience
 
-- 📈 **Product Designer Intern - Investments**\
+- 📈 **Investments Service Designer Intern**\
 📆 Dec/2020 - Moment\
 📍 **Itaú Unibanco**
 
