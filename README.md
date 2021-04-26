@@ -3,7 +3,10 @@
 </h1>
 
 <p align ='center'>
-  A back-end developer, student at FATEC-SP and data enthusiast from São Paulo, Brazil (🇧🇷)
+  A service desginer from São Paulo, Brazil (🇧🇷)
+</p>
+<p align ='center'>
+  Student at FATEC-SP and enthusiastic about data and product management. 
 </p>
 
 <p align='center'>
@@ -43,7 +46,7 @@
 ## Education
 
 - 📖 **Product Management**\
-📆 Nov/2020 - Moment\
+📆 Nov/2020 - Jan/2021\
 📍 **PM3**
 
 - 📖 **TreinaDev - Training Immersion**\
@@ -51,7 +54,7 @@
 📍 **Campus Code**
 
 - 📖 **Data Science Bootcamp**\
-📆 Jul/2020 - Moment\
+📆 Jul/2020 - Dec/2020\
 📍 **Awari**
 
 - 📖 **Analysis and Systems Development**\
