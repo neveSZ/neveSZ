@@ -43,6 +43,24 @@
 <details>
   <summary>My Resume 📃</summary>
 
+## Experience
+
+- 📈 **Product Designer Intern - Investments**\
+📆 Dec/2020 - Moment\
+📍 **Itaú Unibanco**
+
+- 📈 **Partnerships Development Representative**\
+📆 Feb/2020 - Oct/2020\
+📍 **Provi**
+
+- 📈 **Sales Development Representative**\
+📆 May/2019 - Feb/2020\
+📍 **NeoAssist**
+
+- 📚 **Teaching Program: Programming Challenges**\
+📆 Mar/2016 - Dez/2016\
+📍 **IFSP**
+
 ## Education
 
 - 📖 **Product Management**\
@@ -65,22 +83,18 @@
 📆 2015 - 2018\
 📍 **IFSP: Instituto Federal de Educação Ciência e Tecnologia de São Paulo**
 
-## Experience
+## Certificates
 
-- 📈 **Product Designer Intern - Investments**\
-📆 Dec/2020 - Moment\
-📍 **Itaú Unibanco**
+- 📜 **Professional Scrum Master I**\
+📆 Mar/2021\
+📍 **Scrum.org**
 
-- 📈 **Partnerships Development Representative**\
-📆 Feb/2020 - Oct/2020\
-📍 **Provi**
+- 📜 **CPA-20**\
+📆 Mar/2021\
+📍 **ANBIMA**
 
-- 📈 **Sales Development Representative**\
-📆 May/2019 - Feb/2020\
-📍 **NeoAssist**
-
-- 📚 **Teaching Program: Programming Challenges**\
-📆 Mar/2016 - Dez/2016\
-📍 **IFSP**
+- 📜 **Scrum Fundamentals Certified**\
+📆 Oct/2019\
+📍 **SCRUMstudy**
 
 </details>
