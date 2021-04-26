@@ -58,7 +58,7 @@
 📍 **Awari**
 
 - 📖 **Analysis and Systems Development**\
-📆 2018 - 2022\
+📆 2018 - Moment\
 📍 **FATEC-SP: Faculdade de Tecnologia de São Paulo**
 
 - 📖 **Informatics Technician**\
