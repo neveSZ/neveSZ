@@ -84,6 +84,10 @@
 📍 **IFSP: Instituto Federal de Educação Ciência e Tecnologia de São Paulo**
 
 ## Certificates
+  
+- 📜 **Professional Scrum Product Owner I**\
+📆 Jul/2021\
+📍 **Scrum.org**
 
 - 📜 **Professional Scrum Master I**\
 📆 Mar/2021\
