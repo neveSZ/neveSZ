@@ -40,9 +40,6 @@
   <img src="https://komarev.com/ghpvc/?username=neveSZ&label=Profile_Visits&color=green">
 </p>
 
-<details>
-  <summary>My Resume 📃</summary>
-
 ## Experience
 
 - 📈 **Jr. Product Analyst - Investments**\
@@ -104,5 +101,3 @@
 - 📜 **Scrum Fundamentals Certified**\
 📆 Oct/2019\
 📍 **SCRUMstudy**
-
-</details>
