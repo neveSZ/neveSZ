@@ -45,8 +45,12 @@
 
 ## Experience
 
-- 📈 **Investments Service Designer Intern**\
-📆 Dec/2020 - Moment\
+- 📈 **Jr. Product Analyst - Investments**\
+📆 Sep/2021 - Moment\
+📍 **Itaú Unibanco**
+
+- 📈 **Investments Product Management Intern**\
+📆 Dec/2020 - Sep/2021\
 📍 **Itaú Unibanco**
 
 - 📈 **Partnerships Development Representative**\
