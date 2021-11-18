@@ -3,7 +3,7 @@
 </h1>
 
 <p align ='center'>
-  A service desginer from São Paulo, Brazil (🇧🇷)
+  A product manager from São Paulo, Brazil (🇧🇷)
 </p>
 <p align ='center'>
   Student at FATEC-SP and enthusiastic about data and product management. 
