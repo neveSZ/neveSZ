@@ -10,9 +10,6 @@
 </p>
 
 <p align='center'>
-  <a href="https://api.whatsapp.com/send/?phone=5511930869251">
-    <img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" />    
-  </a>&nbsp;&nbsp;
     <a href="https://telegram.me/neveSZme">
     <img src="https://img.shields.io/badge/telegram-D14836?color=2CA5E0&style=for-the-badge&logo=telegram&logoColor=white" />    
   </a>&nbsp;&nbsp;
@@ -32,7 +29,7 @@
 </p>
 
 <p align='center'>
-  Would you like to tell me something? Call me on WhatsApp or send me an email at: <a href="mailto:victor@nevesz.me">victor@nevesz.me</a>
+  Would you like to tell me something? Send me an email: <a href="mailto:victor@nevesz.me">victor@nevesz.me</a>
 </p>
 
 <p align='center'>
