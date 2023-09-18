@@ -39,7 +39,7 @@
 
 ## Experience
 
-- 📈 **Jr. Product Analyst - Investments**\
+- 📈 **Associate Product Manager - Investments**\
 📆 Sep/2021 - Moment\
 📍 **Itaú Unibanco**
 
@@ -61,28 +61,36 @@
 
 ## Education
 
+- 📖 **Graduate degree: Information Technology and Systems**\
+📆 Mar/2022 - Mar/2025\
+📍 **UFABC: Federal University of ABC**
+
+- 📖 **Master of Business Administration: Financial Markets**\
+📆 Sep/2022 - Mar/2024\
+📍 **Saint Paul Business School**
+
+- 📖 **Product Analytics**\
+📆 Aug/2022 - Mar/2023\
+📍 **PM3**
+
 - 📖 **Product Management**\
 📆 Nov/2020 - Jan/2021\
 📍 **PM3**
 
-- 📖 **TreinaDev - Training Immersion**\
-📆 Jul/2020 - Oct/2020\
-📍 **Campus Code**
-
-- 📖 **Data Science Bootcamp**\
-📆 Jul/2020 - Dec/2020\
-📍 **Awari**
-
-- 📖 **Analysis and Systems Development**\
-📆 2018 - Moment\
-📍 **FATEC-SP: Faculdade de Tecnologia de São Paulo**
+- 📖 **Bachelor degree: Analysis and Systems Development**\
+📆 2018 - 2022\
+📍 **FATEC-SP: São Paulo State Technological College**
 
 - 📖 **Informatics Technician**\
 📆 2015 - 2018\
-📍 **IFSP: Instituto Federal de Educação Ciência e Tecnologia de São Paulo**
+📍 **IFSP: Federal Institute of Education, Science and Technology of São Paulo**
 
 ## Certificates
-  
+
+- 📜 **CEA**\
+📆 Aug/2023\
+📍 **ANBIMA**
+
 - 📜 **Professional Scrum Product Owner I**\
 📆 Jul/2021\
 📍 **Scrum.org**
