@@ -10,7 +10,7 @@
 </p>
 
 <p align='center'>
-    <a href="https://telegram.me/neveSZme">
+    <a href="https://telegram.me/neves_business">
     <img src="https://img.shields.io/badge/telegram-D14836?color=2CA5E0&style=for-the-badge&logo=telegram&logoColor=white" />    
   </a>&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/victor-neves-silva/">
