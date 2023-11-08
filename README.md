@@ -29,7 +29,7 @@
 </p>
 
 <p align='center'>
-  Would you like to tell me something? Send me an email: <a href="mailto:victor@nevesz.me">victor@nevesz.me</a>
+  Would you like to tell me something? Send me an email: <a href="mailto:victor@neves.business">victor@neves.business</a>
 </p>
 
 <p align='center'>
