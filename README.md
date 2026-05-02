@@ -9,10 +9,14 @@
 <p align='center'>
   📍 Araras, São Paulo, Brazil (🇧🇷) <br>
   💼 Senior Product Manager @ <b>Sicoob</b> <br>
-  🎓 Post-grad in Information Systems (UFABC) & MBA in Financial Markets (Saint Paul)
+  🎓 Post-grad in Information Systems (UFABC) & MBA in Financial Markets (Saint Paul) <br>
+  🌐 <b>Portfolio & Resume:</b> <a href="https://neves.business/">neves.business</a>
 </p>
 
 <p align='center'>
+  <a href="https://neves.business/" target="_blank">
+    <img src="https://img.shields.io/badge/Website-25292E?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website">
+  </a>&nbsp;
   <a href="https://linkedin.com/in/victor-neves-silva" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>&nbsp;
