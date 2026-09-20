@@ -32,7 +32,7 @@ I'm **Victor Neves**, a Senior Product Manager with 6+ years leading digital pro
 
 Bridge between business and tech: Technologist in Systems Analysis (FATEC-SP) with programming background. Studying LLMs for finance with RAG, vector DBs, and embeddings.
 
-Explore cases and full resume: [Victor Neves - Official Website & Portfolio (neves.business)](https://neves.business/)
+Explore my full background & resume: [Victor Neves — Resume & Profile (neves.business)](https://neves.business/)
 
 ### 🛠️ Tech Stack & Tools
 <p align="left">
