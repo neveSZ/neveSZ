@@ -9,7 +9,7 @@
 <p align='center'>
   📍 Araras, São Paulo, Brazil (🇧🇷) <br>
   💼 Senior Product Manager @ <b>Sicoob</b> <br>
-  🎓 MBA Financial Markets (Saint Paul) | Technologist Systems Analysis (FATEC-SP) | Post-grad UFABC & UNITINS <br>
+  🎓 MBA Financial Markets (Saint Paul) | Technologist Systems Analysis (FATEC-SP) | Post-grad UFABC | Data Science @ UNITINS (in progress) <br>
   🌐 <b>Portfolio & Resume:</b> <a href="https://neves.business/" rel="me">Victor Neves — Portfolio & Resume (neves.business)</a>
 </p>
 
@@ -68,4 +68,4 @@ Explore my full background & resume: [Victor Neves — Resume & Profile (neves.b
 - 📖 **Technical Degree: Informatics** | *IFSP* *(Jan/2015 - Dec/2017)*
 
 ### 📜 Certifications
-`CPRO-I (ANBIMA)` `CPRO-R (ANBIMA)` `CPA (ANBIMA)` `CEA (ANBIMA)` `PQO Back Office Full (ANBIMA)` `PSPO I (Scrum.org)` `PSM I (Scrum.org)` `Product Management (PM3)` `Product Analytics (PM3)`
+`CPRO-I (ANBIMA)` `CPRO-R (ANBIMA)` `CPA (ANBIMA)` `CEA (ANBIMA)` `PQO Back Office Full (ANBIMA)` `PQO Módulo 1 (ANBIMA)` `PSPO I (Scrum.org)` `PSM I (Scrum.org)` `Product Management (PM3)` `Product Analytics (PM3)` `Bootcamp Design Ops (How Bootcamps)`
