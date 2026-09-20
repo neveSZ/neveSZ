@@ -10,29 +10,29 @@
   📍 Araras, São Paulo, Brazil (🇧🇷) <br>
   💼 Senior Product Manager @ <b>Sicoob</b> <br>
   🎓 MBA Financial Markets (Saint Paul) | Technologist Systems Analysis (FATEC-SP) | Post-grad UFABC & UNITINS <br>
-  🌐 <b>Portfolio & Resume:</b> <a href="https://neves.business/">neves.business</a>
+  🌐 <b>Portfolio & Resume:</b> <a href="https://neves.business/" rel="me">Victor Neves — Portfolio & Resume (neves.business)</a>
 </p>
 
 <p align='center'>
-  <a href="https://neves.business/" target="_blank">
-    <img src="https://img.shields.io/badge/Website-25292E?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website Victor Neves Silva">
+  <a href="https://neves.business/" target="_blank" rel="me">
+    <img src="https://img.shields.io/badge/Website-25292E?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website Victor Neves">
   </a>&nbsp;
-  <a href="https://linkedin.com/in/victor-neves-silva" target="_blank">
+  <a href="https://linkedin.com/in/victor-neves-silva" target="_blank" rel="me">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Victor Neves Silva">
   </a>&nbsp;
   <a href="mailto:victor@neves.business" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Victor Neves Silva">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Victor Neves">
   </a>
 </p>
 
 ---
 
 ### 🚀 About Me
-Senior Product Manager with 6+ years in digital products for financial markets. I lead two squads at **Sicoob (FIDC & Investment Solutions)**, largest credit cooperative system in Brazil. Ex-**Itaú Unibanco** and fintechs.
+I'm **Victor Neves**, a Senior Product Manager with 6+ years leading digital products for financial markets. Currently leading two squads at **Sicoob (FIDC & Investment Solutions)**, the largest credit cooperative system in Brazil. Ex-**Itaú Unibanco** and fintechs.
 
-Bridge between business and tech: Technologist in Systems Analysis (FATEC-SP) with programming background. Studying LLMs for finance with RAG, vector DBs and embeddings.
+Bridge between business and tech: Technologist in Systems Analysis (FATEC-SP) with programming background. Studying LLMs for finance with RAG, vector DBs, and embeddings.
 
-Full resume: [neves.business](https://neves.business/)
+Explore cases and full resume: [Victor Neves - Official Website & Portfolio (neves.business)](https://neves.business/)
 
 ### 🛠️ Tech Stack & Tools
 <p align="left">
